@@ -1,15 +1,12 @@
-# Hash
+# Decrypt OpenSSL
 
-Simple [Electron](http://electron.atom.io) application that shows the hash
-values of entered text using different algorithms.
-
-![screenshot](https://cloud.githubusercontent.com/assets/671378/21204178/de96fa12-c20a-11e6-8e94-f5b16e676eee.png)
+Simple [Electron](http://electron.atom.io) application that decrypt file that is encrypted with openssl and output
+decrypted result as a file
 
 ## Getting started
 
 - Install [Node LTS](https://nodejs.org)
 - Clone this repository
-- `cd hash`
 - `npm install` to install the application's dependencies
 - `npm start` to start the application
 
